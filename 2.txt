@@ -1,7 +1,7 @@
 select * 
 from
 cars,
-trucks,
+my_trucks,
 buses,
 cycles
 
